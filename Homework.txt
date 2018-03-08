@@ -1,0 +1,12 @@
+Answers
+
+1. To stop the program at a specific line of code.
+
+2. No.
+
+3. You click the Step Into button.
+
+4. It moves you to the first line of code in the method/class.
+
+5. Evaluate Expression - Test a single line of Java code.
+    Evaluate Fragment Code - Test multiple lines of Java code.
